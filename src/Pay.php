@@ -1,5 +1,5 @@
 <?php
-namespace cxx\wechat;
+namespace qifuwec\wechat;
 
 
 class Pay extends Base

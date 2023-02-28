@@ -1,6 +1,6 @@
 <?php
 
-namespace cxx\wechat;
+namespace qifuwec\wechat;
 
 
 class Jsapi extends Base
