@@ -1,0 +1,20 @@
+{
+    "name": "cxx/wechat",
+    "description": "Wechat",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cxx\\Wechat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wqf"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "doctrine/cache": "~1.5.4",
+        "curl/curl": "^1.6"
+    }
+}
