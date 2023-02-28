@@ -1,10 +1,10 @@
 {
-	"name" : "qifuwc/wechat",
+	"name" : "qifuwec/wechat",
 	"description" : "Wechat",
 	"license" : "MIT",
 	"autoload" : {
 		"psr-4" : {
-			"Cxx\\Wechat\\" : "src/"
+			"Qifuwec\\Wechat\\" : "src/"
 		}
 	},
 	"authors" : [{
