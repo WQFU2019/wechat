@@ -1,6 +1,6 @@
 {
 	"name" : "qifuwec/wechat",
-	"description" : "Wechat",
+	"description" : "Wechat SDK",
 	"license" : "MIT",
 	"autoload" : {
 		"psr-4" : {
@@ -8,12 +8,10 @@
 		}
 	},
 	"authors" : [{
-			"name" : "wqf"
+			"name" : "php MIT"
 		}
 	],
 	"require" : {
-		"php" : ">=5.4",
-		"doctrine/cache" : "~1.5.4",
-		"curl/curl" : "^1.6"
+		"php" : ">=5.4"
 	}
 }
